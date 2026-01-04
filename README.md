@@ -499,6 +499,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with love for the NestJS community**
 
-[Report Bug](https://github.com/yourusername/nestjs-mcp/issues) • [Request Feature](https://github.com/yourusername/nestjs-mcp/issues)
+[Report Bug](https://github.com/pirumar/NestJsMcp/issues) • [Request Feature](https://github.com/pirumar/NestJsMcp/issues)
 
 </div>
