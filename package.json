@@ -1,0 +1,37 @@
+{
+  "name": "nestjs-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server for NestJS - Provides tools, resources, and prompts for NestJS development",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "nestjs",
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "cursor",
+    "ai-assistant"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  },
+  "bin": {
+    "nestjs-mcp": "./dist/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

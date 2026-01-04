@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "nestjs": {
+      "command": "node",
+      "args": ["C:\\Users\\abdul\\source\\repos\\nestjsmcp\\dist\\index.js"],
+      "cwd": "C:\\Users\\abdul\\source\\repos\\nestjsmcp"
+    }
+  }
+}
