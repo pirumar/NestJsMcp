@@ -64,7 +64,7 @@ Access NestJS documentation, concepts, and best practices directly through your 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nestjs-mcp.git
+git clone https://github.com/pirumar/NestJsMcp.git
 cd nestjs-mcp
 
 # Install dependencies
@@ -416,7 +416,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/nestjs-mcp.git
+git clone https://github.com/pirumar/NestJsMcp.git
 cd nestjs-mcp
 
 # Install dependencies
